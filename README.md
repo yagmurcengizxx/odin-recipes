@@ -1,1 +1,1 @@
-# Odin Recipes Projesi
+# Odin Recipes Project
